@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=-e-QTvLD8r4
+
+https://stackoverflow.com/questions/72401421/npm-warn-config-global-global-local-are-deprecated-use-location-glo
+Open powershell as administrator and run:
+
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+npm install --global --production npm-windows-upgrade
+npm-windows-upgrade --npm-version latest
